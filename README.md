@@ -24,6 +24,11 @@ This is my **first ever Python GUI project**, made purely on a whim. Intentional
 
 ---
 
+## Notes
+1. Press ESC only when prompted
+2. This project is intentionally chaotic
+3. Expect a jumpscare sound 😭
+
 ## Tech Used
 1. Python
 2. Tkinter
